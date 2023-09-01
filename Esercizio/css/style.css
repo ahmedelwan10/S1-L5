@@ -59,9 +59,11 @@ padding: 2em;
 
 
 }
-footer div h5 {text-align: center;
+ h5 {text-align: center;
 padding: 1em;
-margin: 2em;}
+margin: 2em;
+background-color: #00BCD4;
+color: aliceblue;}
 
 
 
