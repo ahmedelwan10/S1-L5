@@ -10,6 +10,7 @@ header img {width: 350px;
         color: #00BCD4;
         font-size: 2em;
         margin: 1em;
+        font: italic;
     }
     header button {background-color: rgb(227, 140, 58);
     text-align: center
@@ -17,7 +18,7 @@ header img {width: 350px;
     header button {padding: 1em;
     margin: 2em;}
     main h2 {font: bold;
-    font-size: larger
+    font-size: 1.5rem
 ;}
 main p {color: black;}
 
@@ -67,6 +68,7 @@ background-color: #00BCD4;
 color: aliceblue;}
 
 .contact {background-color: #00BCD4;}
+
 
 
 
